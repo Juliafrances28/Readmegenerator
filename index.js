@@ -43,7 +43,7 @@ const init = async () => {
       },
       {
         type: "input",
-        name: "test",
+        name: "tested",
         message: "how is your project tested?",
       },
       {
