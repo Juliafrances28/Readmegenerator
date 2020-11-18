@@ -1,7 +1,15 @@
 // function to generate markdown for README
-function generateMarkdown(data) {
-  return `# ${data.title}
-
+function generateMarkdown(answers) {
+  return `# ${answers.project}
+  ## ${answers.description}
+  ## ${answers.installation}
+  ## ${answers.usage}
+  ## ${answers.license}
+  ![badge](https://img.shields.io/badge/License-${answers.license}-yellow
+  ## ${answers.contributed} 
+  ## ${answers.tested}
+  ## ${answers.username }
+  ## ${answers.repo}
 `;
 }
 
