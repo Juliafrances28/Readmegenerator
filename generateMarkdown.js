@@ -38,11 +38,15 @@ function generateMarkdown(answers) {
   ## Username
   ${answers.Github }
 
-  ## Repo
-  ${answers.repo}
 
   ## Email 
   ${answers.email}
+
+  ## Repo
+  ${answers.repo}
+  
+  ## Demonstration video
+  ${answers.demo}
 
 `;
 }

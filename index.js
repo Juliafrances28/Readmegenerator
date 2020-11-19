@@ -60,15 +60,22 @@ const init = async () => {
 
       {
         type: "input",
+        name: "email",
+        message: "What is your email?",
+      },
+
+      {
+        type: "input",
         name: "repo",
         message: "What is your repo link?",
       },
 
       {
         type: "input",
-        name: "email",
-        message: "What is your email?",
+        name: "demo",
+        message: "The link to the demonstration video",
       },
+
  
     ]);
     const md = generate(answers);
@@ -79,5 +86,4 @@ const init = async () => {
   }
 }
 
-init();
-//![icon for license](${licenseURL}) for license stuff 
+init (); 

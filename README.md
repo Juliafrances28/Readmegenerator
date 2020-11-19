@@ -12,33 +12,37 @@
      * [License](#License)
      
   ## Description
-  This is a readme generator 
+  To create a readme generator 
 
   ## Installation
-  Run npm install -y
+  Run NPM install -y 
 
   ## Usage 
-  To create a professional readme generator 
+  To have a professional readme 
 
   ## license 
    MIT
   ![badge](https://img.shields.io/badge/License-MIT-yellow
 
   ## Contributed
-  This is a solo project  
+  It was a solo project  
 
   ## Tested
    Run node index.js 
 
   ## Questions 
-   I look forward to hearing from you
+   Please reach out 
 
   ## Username
   juliafrances28
 
-  ## Repo
-    https://github.com/Juliafrances28/Sunshine
 
   ## Email 
   julia.horan28@gmail.com
+
+  ## Repo
+  https://github.com/Juliafrances28/Sunshine
+  
+  ## Demonstration video
+  https://drive.google.com/file/d/1zQmSuxqpqCA0Px9LEXljYmRbWIURasQn/view
 
