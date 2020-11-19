@@ -3,14 +3,13 @@ function generateMarkdown(answers) {
   return `
   # ${answers.project}
 
-   ## table of contents
+   ## Table of Contents
      * [Email](#Email)
      * [Username](#Username)
      * [Description](#Description)
      * [Instructions](#Instructions)
      * [Usage](#Usage)
-     * [Guidlines](#Guidelines)
-     * [Installation](#Installation)
+     * [Installation](#InstallaTtion)
      * [Questions](#Questions)
      * [License](#License)
      
@@ -33,12 +32,18 @@ function generateMarkdown(answers) {
   ## Tested
    ${answers.tested}
 
+  ## Questions 
+   ${answers.questions}
+
   ## Username
-  ${answers.username }
+  ${answers.Github }
 
   ## Repo
   ${answers.repo}
+
+  ## Email 
+  ${answers.email}
+
 `;
 }
-
 module.exports = generateMarkdown;

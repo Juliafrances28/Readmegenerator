@@ -39,16 +39,22 @@ const init = async () => {
       {
         type: "input",
         name: "contributed",
-        message: " who contributed on the project?",
+        message: " Who contributed on the project?",
       },
       {
         type: "input",
         name: "tested",
-        message: "how is your project tested?",
+        message: "How is your project tested?",
       },
       {
         type: "input",
-        name: "username",
+        name: "questions",
+        message: "Do you have any questions?",
+      },
+      
+      {
+        type: "input",
+        name: "Github",
         message:"What is your Github Username:"
       },
 
@@ -56,6 +62,12 @@ const init = async () => {
         type: "input",
         name: "repo",
         message: "What is your repo link?",
+      },
+
+      {
+        type: "input",
+        name: "email",
+        message: "What is your email?",
       },
  
     ]);
