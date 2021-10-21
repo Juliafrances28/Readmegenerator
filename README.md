@@ -41,7 +41,7 @@
   julia.horan28@gmail.com
 
   ## Repo
-  https://github.com/Juliafrances28/Sunshine
+  https://github.com/Juliafrances28/Readmegenerator
   
   ## Demonstration video
   https://drive.google.com/file/d/1zQmSuxqpqCA0Px9LEXljYmRbWIURasQn/view
