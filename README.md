@@ -12,7 +12,7 @@
      * [License](#License)
      
   ## Description
-  To create a readme generator 
+  To create a readme generator, this is a tool that provides a template to create a quality readme for any project.
 
   ## Installation
   Run NPM install -y 
